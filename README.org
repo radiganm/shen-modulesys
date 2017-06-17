@@ -1,2 +1,6 @@
-# shen-modulesys
+#+TITLE: modulesys - a Shen Module System
+#+AUTHOR: Vasil S. Diadov
+
 a module system for Shen by Vasil S. Diadov (see https://github.com/vasil-sd/shen-libs for official repository)
+
+ # *EOF* 
